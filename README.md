@@ -156,7 +156,7 @@ set_output_delay -max 1.0 -clock clk [all_outputs]
 
 
 ## Synthesis RTL Schematic :
-
+![image](https://github.com/sathish-git-tech/Traffic_light_controller_synthesis/blob/main/Screenshot%202025-05-26%20215110.png)
 ## Area report:
 ![image](https://github.com/sathish-git-tech/Traffic_light_controller_synthesis/blob/main/Screenshot%202025-05-26%20215204.png)
 
