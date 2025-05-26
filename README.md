@@ -160,7 +160,7 @@ set_output_delay -max 1.0 -clock clk [all_outputs]
 ## Area report:
 
 ## Power Report:
-
+![image](https://github.com/sathish-git-tech/Traffic_light_controller_synthesis/blob/main/Screenshot%202025-05-26%20215223.png)
 ## Result:
 
 The generic netlist of Traffic Light Controller has been created, and area, power reports have been tabulated and generated using Genus.
